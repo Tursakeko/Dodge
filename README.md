@@ -2,10 +2,10 @@
 
 Dodgessa tarkoituksena on ohjata pelaajaa tekoälyllä.
   - Pelin idea:
-      a) pelaajan tulee säilyä elossa mahdollisimman pitkään
+    a) pelaajan tulee säilyä elossa mahdollisimman pitkään
           - pelaaja menettää hp:tä osuessaan dangeriin
           - 2s kuolemattomuus osuman jälkeen
-      b) saavuttaa maali mahdollisimman lyhyessä ajassa
+    b) saavuttaa maali mahdollisimman lyhyessä ajassa
       
 Ohjelman rakenne
   - Pelaaja
