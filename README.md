@@ -8,13 +8,13 @@ Dodgessa tarkoituksena on ohjata pelaajaa tekoälyllä.
       b) saavuttaa maali mahdollisimman lyhyessä ajassa
       
 Ohjelman rakenne
-    - Pelaaja
-      - kuutio
-      - ohjattavissa ulkoisella AI:lla tai näppiksellä
-    - Danger
-      - kuutio
-      - ohjelman oma AI ohjaa
-    - Wall
-      - kuutio
-      - estää pelaajan kulkemisen läpi
-      - levelin generointi taulukosta
+  - Pelaaja
+    - kuutio
+    - ohjattavissa ulkoisella AI:lla tai näppiksellä
+  - Danger
+    - kuutio
+    - ohjelman oma AI ohjaa
+  - Wall
+    - kuutio
+    - estää pelaajan kulkemisen läpi
+    - levelin generointi taulukosta
